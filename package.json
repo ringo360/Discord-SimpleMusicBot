@@ -40,6 +40,7 @@
     "soundcloud.ts": "^0.5.2",
     "spotify-url-info": "^3.2.8",
     "throttle-debounce": "^5.0.0",
+    "ts-node": "^10.9.1",
     "tslib": "^2.6.2",
     "yt-mix-playlist": "^1.0.1",
     "ytdl-core": "^4.11.5",
@@ -69,7 +70,6 @@
     "opusscript": "^0.0.8",
     "pako": "^2.1.0",
     "play-dl": "^1.9.7",
-    "sodium": "^3.0.2",
     "sodium-native": "^3.4.1",
     "tweetnacl": "^1.0.3",
     "zlib-sync": "^0.1.8"
