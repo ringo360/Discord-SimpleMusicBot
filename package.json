@@ -75,14 +75,14 @@
     "zlib-sync": "^0.1.8"
   },
   "keywords": [],
-  "author": "mtripg6666tdr",
+  "author": "ringoXD, mtripg6666tdr",
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mtripg6666tdr/Discord-SimpleMusicBot.git"
+    "url": "git+https://github.com/ringo360/Discord-SimpleMusicBot.git"
   },
   "bugs": {
-    "url": "https://github.com/mtripg6666tdr/Discord-SimpleMusicBot/issues"
+    "url": "https://github.com/ringo360/Discord-SimpleMusicBot/issues"
   },
-  "readme": "https://github.com/mtripg6666tdr/Discord-SimpleMusicBot#readme"
+  "readme": "https://github.com/ringo360/Discord-SimpleMusicBot#readme"
 }
